@@ -57,7 +57,8 @@ print(result2)
 ```
 
 ## Output :
-![2](https://github.com/logeshwari2004/Ex2---AAI/assets/94211349/91761f47-3d5e-47dd-aa71-01751a7a9a63)
+![2](https://github.com/logeshwari2004/Ex2---AAI/assets/94211349/91761f47-3d5e-47dd-aa71-01751a7a9a63)         ![2](https://github.com/logeshwari2004/Ex2---AAI/assets/94211349/33d02f92-1f09-4022-9462-7f074b14ea85)
+
 
  
 ## Result :
